@@ -1,0 +1,9 @@
+<svg width="200" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="150" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      Image placeholder
+    </text>
+    <text x="100" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#999">
+      lesson8-postman-init.gif
+    </text>
+  </svg>
